@@ -40,7 +40,11 @@ A comprehensive Human Resource Management System built using HTML, CSS, Bootstra
 
 ## Usage
 - Log in as Admin to access all features.
+     -userId :- admin@2205
+     -password :- Admin123
 - HR and Employee roles have restricted access.
+     -userId :- Pratik_02
+     -password :- pratik@123
 
 ## Screenshots
 ![Dashboard Screenshot](https://imgur.com/Hvqkh5u.png)
